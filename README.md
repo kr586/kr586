@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kr586
+- 👋 Hi, I’m Khaliqur Rahman
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning development
 - 💞️ I’m looking to collaborate on 
